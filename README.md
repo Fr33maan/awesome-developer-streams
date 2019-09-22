@@ -108,6 +108,7 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Feross Aboukhadijeh](#feross-aboukhadijeh) - **streaming:** JavaScript, Node.js, Frameworks, Developer Tooling, Web Development
 - [Ferris](#ferris) - **streaming:** Emulator Development, Demoscene Tools, Hardware Hacking, Rust, C, C++
 - [Fletcher (IAmFletcher)](#fletcher-iamfletcher) - **streaming:** JavaScript, Node, Go
+- [Fr33maan](#fr33maan) - **streaming:** Game Development, Web Development, JavaScript, Fullstack
 - [Frank Boucher](#frank-boucher) - **streaming:** Microsoft Azure, C#, .NET Core, DevOps, OSS Development
 - [Franziska Hinkelmann](#franziska-hinkelmann) - **streaming:** JavaScript, Node.js, Interview Training, Pair Programming
 - [Freya Holmér](#freya-holmér) - **streaming:** Game Development, Unity, C#, Shaders, Developer Tooling, LGBT+ discussion
@@ -926,6 +927,24 @@ NEW: Be sure to check out the [Twitch directory listings](#twitch) at the end
 - [Twitter](https://twitter.com/IAmFletcher_)
 - [GitHub](https://github.com/IAmFletcher)
 - [Discord](https://discord.gg/5A3NKHJ)
+
+[(top)](#table-of-contents)
+
+----
+### Fr33maan alias Jean-Baptiste Briant
+#### What Fr33maan Streams
+- Game development (Multiplayer, mobile, desktop)
+- Web development (React / React Native)
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/fr33maan)
+#### Languages Spoken During Stream
+- English
+- French
+#### Links:
+- [Fr33maan's website](https://fr33maan.com)
+- [Twitch](https://www.twitch.tv/fr33maan)
+- [Discord - dev community](https://discord.gg/Vdpn9TQ)
+- [Facebook page](https://www.facebook.com/fr33maan)  
 
 [(top)](#table-of-contents)
 
